@@ -50,7 +50,7 @@ Follow these steps to install and run the project on your local machine:
 
 1. **Clone the repository:**  
    ```bash
-   git clone https://github.com/yourusername/tool-store-sales-management.git
+   git clone https://github.com/gianpaaul/tool-store-sales-management.git
 
 2. **Open the Project folder**
     
