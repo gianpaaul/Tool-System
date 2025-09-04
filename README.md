@@ -52,8 +52,6 @@ Follow these steps to install and run the project on your local machine:
    ```bash
    git clone https://github.com/gianpaaul/tool-store-sales-management.git
 
-Open the Project folder
-
 3. **Configure the Database in XAMPP:**
    3.1 Start **XAMPP** and activate the **Apache** and **MySQL** modules.
    3.2 Open **phpMyAdmin** from the **XAMPP** control panel.
