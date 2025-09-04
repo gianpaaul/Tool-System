@@ -52,35 +52,25 @@ Follow these steps to install and run the project on your local machine:
    ```bash
    git clone https://github.com/gianpaaul/tool-store-sales-management.git
 
-2. **Open the Project folder**
-    
-3. **Configure the Database in XAMPP**
-   
+Open the Project folder
+
+Configure the Database in XAMPP:
 3.1 Start XAMPP and activate the Apache and MySQL modules.
-
 3.2 Open phpMyAdmin from the XAMPP control panel.
-
 3.3 Create a database named ferreteria.
-
 3.4 Import the provided ferreteria.sql file:
-
 3.5 Navigate to the Import tab.
-
 3.6 Select the ferreteria.sql file from the cloned repository.
-
 3.7 Click Go to complete the import.
         
-4. **Final Configuration**
-   
+Final Configuration:
 4.1 Open the connection.py file in your project folder.
-
 4.2 Verify and adjust the database connection credentials:
 
-    Host: localhost
+Host: localhost  
+User: root  
+Password: (leave empty by default unless configured otherwise)  
 
-    User: root
-
-    Password: (leave empty by default unless configured otherwise).
         
 5. **Run the Project**
    
